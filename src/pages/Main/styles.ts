@@ -25,7 +25,6 @@ export const Circle = styled.div<CircleProps>`
     css`
       opacity: 1;
       box-shadow: 0 0 2.5px #d33926, 0 0 10px #d33926, 0 0 20px #d33926;
-      transition-delay: 1s;
     `}
 `
 
